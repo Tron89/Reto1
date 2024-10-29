@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04170bfa-8d42-494b-8c18-e4467479f303" name="Changes" comment="Funciones de Rafa creadas.">
-      <change beforePath="$PROJECT_DIR$/Reto1/src/retos/Funciones.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reto1/src/retos/FuncionesReto1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reto1/src/retos/FuncionesReto1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Reto1/src/retos/Reto1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reto1/src/retos/Reto1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +63,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730195292690</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Funciones de Rafa creadas.">
+      <option name="closed" value="true" />
+      <created>1730195655353</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730195655353</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
