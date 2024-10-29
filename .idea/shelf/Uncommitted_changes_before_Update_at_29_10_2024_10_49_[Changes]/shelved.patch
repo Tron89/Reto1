@@ -1,0 +1,23 @@
+Index: Reto1/src/retos/Funciones.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package retos;\r\n\r\npublic class Funciones {\r\n\r\n\tpublic static int sumar(int a, int b) {\r\n\t\treturn a+b;\r\n\t}\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\tpublic static boolean esPar(int a) {\r\n\t\treturn a % 2 == 0;\r\n\t}\r\n\tpublic static boolean esImpar(int a) {\r\n\t\treturn a % 2 == 1;\r\n\t}\r\n\tpublic static boolean esPositivo(int a) {\r\n\t\treturn a >= 0;\r\n\t}\r\n\tpublic static boolean esNegativo(int a) {\r\n\t\treturn a < 0;\r\n\t}\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Reto1/src/retos/Funciones.java b/Reto1/src/retos/Funciones.java
+--- a/Reto1/src/retos/Funciones.java	(revision 7a70a8cbeb5829c2e656eec2163c73d9cee96ec6)
++++ b/Reto1/src/retos/Funciones.java	(date 1730195350817)
+@@ -2,9 +2,9 @@
+ 
+ public class Funciones {
+ 
+-	public static int sumar(int a, int b) {
+-		return a+b;
+-	}
++
++
++
+ 
+ 
+ 
