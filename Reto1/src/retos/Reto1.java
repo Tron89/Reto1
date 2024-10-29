@@ -23,7 +23,6 @@ public class Reto1 {
 			System.out.println("0. Salir");
 			System.out.println("===========================");
 			
-			
 			try {
 				System.out.println("");
 				int num = sn.nextInt();
@@ -31,6 +30,9 @@ public class Reto1 {
 		        switch (num) {
 		        case 1:
 		            System.out.println("Es uno.");
+		            
+		            System.out.println("Presiona una tecla para continuar");
+		            sn.nextLine();
 		            break;
 		        case 2:
 		            System.out.println("Es dos.");
