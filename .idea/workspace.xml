@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04170bfa-8d42-494b-8c18-e4467479f303" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reto1/src/retos/Funciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reto1/src/retos/Funciones.java" afterDir="false" />
+    <list default="true" id="04170bfa-8d42-494b-8c18-e4467479f303" name="Changes" comment="Funciones de Rafa creadas.">
+      <change beforePath="$PROJECT_DIR$/Reto1/src/retos/Funciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reto1/src/retos/FuncionesReto1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reto1/src/retos/FuncionesReto1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reto1/src/retos/Reto1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reto1/src/retos/Reto1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +56,19 @@
       <option name="presentableId" value="Default" />
       <updated>1730194638912</updated>
     </task>
+    <task id="LOCAL-00001" summary="Funciones de Rafa creadas.">
+      <option name="closed" value="true" />
+      <created>1730195292690</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730195292690</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Funciones de Rafa creadas." />
+    <option name="LAST_COMMIT_MESSAGE" value="Funciones de Rafa creadas." />
   </component>
 </project>
